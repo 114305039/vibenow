@@ -1,0 +1,100 @@
+{
+  "bars": [
+    {
+      "id": "lunar-room",
+      "name": "Lunar Room",
+      "district": "信義",
+      "vibe": "熱鬧",
+      "price": 850,
+      "event": "Neon Rhythm Night",
+      "description": "霓虹光影與律動節拍交織，適合想和朋友一起感受熱鬧夜晚的人。這是一間專為介面示範創作的虛構酒吧。",
+      "tags": [
+        "電子樂",
+        "團體聚會",
+        "夜間派對"
+      ],
+      "emoji": "🌙",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "afterglow",
+      "name": "Afterglow",
+      "district": "大安",
+      "vibe": "Chill",
+      "price": 680,
+      "event": "Slow Jazz Session",
+      "description": "昏黃燈光、柔和爵士與舒服的座位安排，適合慢慢聊天、享受安靜節奏的夜晚。此店名和活動皆為展示用途。",
+      "tags": [
+        "爵士",
+        "聊天",
+        "柔和燈光"
+      ],
+      "emoji": "✨",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "velvet-line",
+      "name": "Velvet Line",
+      "district": "中山",
+      "vibe": "約會",
+      "price": 980,
+      "event": "Velvet Date Night",
+      "description": "帶點復古質感的室內氛圍與精緻擺設，營造特別日子的儀式感。所有資訊均為期末課程虛構資料。",
+      "tags": [
+        "復古",
+        "雙人約會",
+        "低光源"
+      ],
+      "emoji": "🥀",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "nocturne",
+      "name": "Nocturne Studio",
+      "district": "大安",
+      "vibe": "音樂",
+      "price": 760,
+      "event": "Indie Listening Party",
+      "description": "以音樂主題打造的小型聆聽空間，適合對獨立音樂有興趣、喜歡探索新聲音的訪客。內容僅供系統測試。",
+      "tags": [
+        "獨立音樂",
+        "主題活動",
+        "探索"
+      ],
+      "emoji": "🎧",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "orbit-88",
+      "name": "Orbit 88",
+      "district": "信義",
+      "vibe": "音樂",
+      "price": 720,
+      "event": "City Pop Select",
+      "description": "復古未來感與輕快節奏相遇，讓下班後的夜晚有不同的聲音背景。這是示範網站中的虛構場所。",
+      "tags": [
+        "City Pop",
+        "節奏",
+        "朋友聚會"
+      ],
+      "emoji": "🪩",
+      "updated": "2026-11-06"
+    },
+    {
+      "id": "mellow-corner",
+      "name": "Mellow Corner",
+      "district": "中山",
+      "vibe": "Chill",
+      "price": 520,
+      "event": "Cozy Conversation",
+      "description": "想遠離喧鬧時，可以想像一個轉角的溫暖空間，適合自在交談、緩慢放鬆。所有項目均為虛構展示。",
+      "tags": [
+        "放鬆",
+        "小聚",
+        "低預算"
+      ],
+      "emoji": "☁️",
+      "updated": "2026-11-06"
+    }
+  ]
+}
